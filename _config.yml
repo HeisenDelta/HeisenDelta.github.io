@@ -1,1 +1,4 @@
 theme: jekyll-theme-midnight
+
+# Include Brave
+include: .well-known
