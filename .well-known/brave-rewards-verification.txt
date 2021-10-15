@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: heisendelta.github.io
+Token: b3bea0caf63d5f35c65ba96871f43dd0c2942b4bb8febe1a68d3cb0e0e943ea9
